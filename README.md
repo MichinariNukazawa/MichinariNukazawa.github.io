@@ -3,12 +3,13 @@
 ## Introduction
 Michinari Nukazawa is programmer/engineer in japanese.
 
-Linux/PHP/Qt/Python/FontForge
+Linux/PHP/Qt/Python/FontForge/javascript/electron/android/webextension
 
 Near technology area: x86 BIOS Boot / Typography Design
 
-## Products
+## Product
 
+### Font
 [RuneAMN_Series_Fonts][ghpages_index_RuneAMN_Free]  
 [OlChikiAMN_Series_Fonts][ghpages_index_OlChikiAMN_Free]  
 [RuneAMN_Pro_Series_Fonts][ghpages_index_RuneAMN_Pro]  
@@ -17,13 +18,22 @@ Near technology area: x86 BIOS Boot / Typography Design
  (Fonts is retail product about under $5)  
 [TofuFont][ghpages_index_TofuFont_en_US]  
 
+### javascript image/canvas
 [bright_tool_ddn][ghpages_index_bright_tool_ddn] (JS-Image-Filters-ddn)  
  A change brightness and chroma for images written in JavaScript.  
  On browser(powerd by javascript. [JS-Image-Filters-ddn][github_JS-Image-Filters-ddn])  
 [sssh-syntax-converter][ghpages_index_sssh-syntax-converter]  
  SSSH converts a source code into static HTML.()  
 
-Contribute:  
+### Dictionary electron/android/webextensions
+[lina_dicto (esperanto/japanese)](https://github.com/MichinariNukazawa/lina_dicto)  
+[lina_dicto for android](https://github.com/MichinariNukazawa/lina_dicto_for_android)  
+[lina_dicto for webextension](https://github.com/MichinariNukazawa/lina_dicto_for_webextension)  
+
+[lina_dicto_english (english/japanese)](https://github.com/MichinariNukazawa/lina_dicto_english)  
+[lina_dicto_english for webextension](https://github.com/MichinariNukazawa/lina_dicto_english_for_webextension)  
+
+### Translation
 [FontForge documentation][FontForge_Conditional_ja].(Translation)  
 
 ## Contacts
