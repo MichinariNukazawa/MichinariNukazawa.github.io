@@ -1,11 +1,13 @@
 # Michinari Nukazawa
 
 ## Introduction
-Michinari Nukazawa is programmer/engineer in japanese.
+Michinari Nukazawa is programmer/engineer.
 
-Linux/PHP/Qt/Python/FontForge/javascript/electron/android/webextension
+Linux/PHP/Qt/Python/FontForge  
+/javascript/SVG/vector graphics  
+/electron/android/webextension  
 
-Near technology area: x86 BIOS Boot / Typography Design
+Near technology area: x86 BIOS Boot / Typography Design  
 
 ## Product
 
@@ -25,13 +27,19 @@ Near technology area: x86 BIOS Boot / Typography Design
 [sssh-syntax-converter][ghpages_index_sssh-syntax-converter]  
  SSSH converts a source code into static HTML.()  
 
+### Vector graphics
+[vecterion_vge](https://github.com/MichinariNukazawa/vecterion_vge)  
+vector graphics editor.  
+
 ### Dictionary electron/android/webextensions
-[lina_dicto (esperanto/japanese)](https://github.com/MichinariNukazawa/lina_dicto)  
+[lina_dicto](https://github.com/MichinariNukazawa/lina_dicto)  
 [lina_dicto for android](https://github.com/MichinariNukazawa/lina_dicto_for_android)  
 [lina_dicto for webextension](https://github.com/MichinariNukazawa/lina_dicto_for_webextension)  
+esperanto/japanese translation.  
 
-[lina_dicto_english (english/japanese)](https://github.com/MichinariNukazawa/lina_dicto_english)  
+[lina_dicto_english](https://github.com/MichinariNukazawa/lina_dicto_english)  
 [lina_dicto_english for webextension](https://github.com/MichinariNukazawa/lina_dicto_english_for_webextension)  
+english/japanese translation.  
 
 ### Translation
 [FontForge documentation][FontForge_Conditional_ja].(Translation)  
