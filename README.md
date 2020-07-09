@@ -30,11 +30,19 @@ Near technology area: x86 BIOS Boot / Typography Design
 ### Vector graphics
 [vecterion_vge](https://github.com/MichinariNukazawa/vecterion_vge)  
 vector graphics editor.  
+[daisy spread image](https://github.com/MichinariNukazawa/daisy_spread_image)  
+daisy spread image is magickcircle free scale image generator.  
+
+### 
+[daisy sequence](https://github.com/MichinariNukazawa/daisy_sequence)
+daisy sequence is (not) UML sequence diagram editor.
 
 ### Dictionary electron/android/webextensions
 [lina_dicto](https://github.com/MichinariNukazawa/lina_dicto)  
 [lina_dicto for android](https://github.com/MichinariNukazawa/lina_dicto_for_android)  
+[lina_dicto for ios](https://github.com/MichinariNukazawa/lina_dicto_for_ios)  
 [lina_dicto for webextension](https://github.com/MichinariNukazawa/lina_dicto_for_webextension)  
+[lina_dicto_wemd (webextension)](https://github.com/MichinariNukazawa/mouse-dictionary/tree/esperanto-variant-lina-dicto)  
 esperanto/japanese translation.  
 
 [lina_dicto_english](https://github.com/MichinariNukazawa/lina_dicto_english)  
@@ -43,6 +51,45 @@ english/japanese translation.
 
 ### Translation
 [FontForge documentation][FontForge_Conditional_ja].(Translation)  
+
+### Technical Book Self Publishing
+[GTK Qt Electron クロスプラットフォーム・デスクトップアプリケーション・フレームワーク](https://daisy-bell.booth.pm/items/1054911)  
+ -A experience in the cross platform desktop application framework-  
+2018/10/08 技術書典5  
+[ゼロから作るTrueTypeフォントファイル](https://daisy-bell.booth.pm/items/1314203)  
+ -A generate TrueType font binary file from /dev/null-  
+2019/04/14 技術書典6  
+
+
+### Fan art
+「ことのはアムリラート」  
+/[ファン創作 ユリアーモ文字 フォント集 (筆記体フォント+)](https://daisy-bell.booth.pm/items/670082)  
+
+「ステラのまほう」  
+/ [ステラのまほう百武照合同『なんどでもゆめみてる』/(Umbrellahead)/宇宙人の日](https://umbrellahead.booth.pm/items/1512518)  
+2019/08/10 コミックマーケット96  
+
+「ことのはアムリラート」  
+/ [ルカ凜合同誌『Blanka Lilio』/(Little Elemental)/私の愛する天使に捧ぐ](https://blanka-lilio.tumblr.com/)   
+2019/08/11 コミックマーケット96  
+
+「どうして私が美術科に!?」  
+/ [​どうして私が美術科に⁉︎ ​X Art Room Anthology/(Ｘ人Ｘ色[じゅうにんといろ])/美術X室の消失](https://xninxiro.wixsite.com/doubiju-x-anthology)  
+2019/12/28 コミックマーケット97  
+
+「まちカドまぞく」  
+/ [多魔市ご町内戦線異状なし/(Penta Company)/帰ってきたら、続きを](https://twipla.jp/events/380860)  
+2019/12/28 コミックマーケット97  
+
+「星屑テレパス」  
+/ [星に手を伸ばして REACHING FOR STARS/(あぶすとらくとふぁくとりー)](https://twipla.jp/events/417793)  
+「ポイント・ネモの孤独 / あなたがここにいる不思議」  
+「ロケットペンシルの約束 / payload with we」  
+2020/07/25 よんこま小町（予定）  
+
+### Original Novel
+[Iris*Yonah in the ark](https://ncode.syosetu.com/n9250gg/)  
+
 
 ## Contacts
 [twitter][twitter]  
